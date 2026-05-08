@@ -8,11 +8,16 @@
 
 She is packaged for local Codex use and kept here with the source preview assets.
 
+Working state:
+
+![Emerald Codex Guardian casting a spell](assets/codex-pets/emerald-codex-guardian/running.gif)
+
 ### Files
 
 - [Install package](assets/codex-pets/emerald-codex-guardian/emerald-codex-guardian.codex-pet.zip)
 - [Spritesheet](assets/codex-pets/emerald-codex-guardian/spritesheet.webp)
 - [All actions preview](assets/codex-pets/emerald-codex-guardian/all-actions.webp)
+- [Working spell loop](assets/codex-pets/emerald-codex-guardian/running.gif)
 
 ### Local Install
 
